@@ -183,7 +183,7 @@ Now lets try to create a collage of each of the directories containing label-spe
 1. Create a `collages` directory:
 
     ```bash
-    mkdir collages
+    mkdir -p collages
     ```
 
 2. Create a temporary image to make a collage with the correct layout for all of the images in the `'dog'` folder:
