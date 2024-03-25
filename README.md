@@ -77,7 +77,7 @@ You have been given a set of pictures of your colleagues' animals, and you want 
 To make this workshop palatable for eveyone we have already:
 
 - Dumped a bunch of animal pictures in the [`data/`](./data/) folder.
-- Written a simple Python script called [`classify.py`](./bin/classify.py), which is uses CLIP to classify the bloomin' critters.
+- Written a simple Python script called [`classify.py`](./bin/classify.py), which uses CLIP to classify the bloomin' critters.
 
 Your mission should you choose to accept is going to be to:
 
